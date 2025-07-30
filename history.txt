@@ -1,0 +1,9 @@
+[2025-07-31   00:55:08]	abs(-231) = 231
+[2025-07-31   00:57:21]	sqrt(554)+pow(43)-cos(90)*tan(180)/pi(190)-factorial(5) = Error: pow expected 2 arguments, got 1
+[2025-07-31   00:57:42]	pow(2) = Error: pow expected 2 arguments, got 1
+[2025-07-31   00:57:51]	pow(2,3) = 8.0
+[2025-07-31   00:58:25]	sqrt(554)+pow(43,1)-cos(90)*tan(180)/pi(190)-factorial(5) = Error: 'float' object is not callable
+[2025-07-31   00:59:22]	sqrt(554)+pow(43,1)-factorial(5) = -53.46279540812036
+[2025-07-31   01:09:36]	C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe "d:/Python Programs/Scientific Calculator/gui.py" = Error: invalid syntax (<string>, line 1)
+[2025-07-31 01:10:57] 2+2-3*4/90 = 3.8666666666666667
+[2025-07-31 01:11:36] 90*81-45*90+88/301 = 3240.2923588039866
