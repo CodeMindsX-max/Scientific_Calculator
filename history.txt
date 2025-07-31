@@ -7,3 +7,5 @@
 [2025-07-31   01:09:36]	C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe "d:/Python Programs/Scientific Calculator/gui.py" = Error: invalid syntax (<string>, line 1)
 [2025-07-31 01:10:57] 2+2-3*4/90 = 3.8666666666666667
 [2025-07-31 01:11:36] 90*81-45*90+88/301 = 3240.2923588039866
+[2025-07-31 18:34:52] 2+3/100+sin(10) = 1.48597888911063
+55*6**22 = 7239193711324692480
